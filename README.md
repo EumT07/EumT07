@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Eublan Mata
-- 👀 I’m interested in a lot things such as: Drawings, codes, tech world 
+- 👀 I’m interested in things such as: Drawings, codes, tech world 
 - 🌱 I’m currently learning javascript and python in order to become in a good professional  
 - 📫 How to reach me at the moment twitter: @eumt07
 
