@@ -3,9 +3,9 @@
 
 <h2>About me</h2>
 
-- 👀 I’m interested in things such as: Drawings, codes, tech world
-- 👨🏽‍💻 I’m currently working on improving my techskill
-- 🌱 I’m currently learning javascript and python in order to become in a good professional
+- 👀 I’m interested in things such as: Drawings, codes, tech world.
+- 👨🏽‍💻 I’m currently working on improving my: Backend | frontend skills.
+- 🌱 I’m still currently learning javascript and python in order to become in a good professional.
 
 <h2># Skills: </h2>
 
