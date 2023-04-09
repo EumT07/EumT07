@@ -30,7 +30,6 @@
 <div>
   <img style="margin: auto;" src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" alt=git width="50" height="50"/>
   <img style="margin: auto;" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt=git width="50" height="50"/>
-  <img style="margin: auto;" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" alt=git width="50" height="50"/>
   <img style="margin: auto;" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt=git width="50" height="50"/>
 </div>
 <!---
