@@ -13,19 +13,6 @@
 <img style="margin: auto;" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt=javascript width="60" height="60"/>
 <img style="margin: auto;" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt=python width="40" height="60"/>
 
-<h3> Backend <h3>
-<div>
-<img style="margin: auto;" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" alt=django width="60" height="60"/> 
-<img style="margin: auto;" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt=nodejs width="60" height="60"/>
-</div>
-  
-<h3> Data Base </h3>
-<div>
-  <img style="margin: auto;" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt=git width="60" height="60"/>
-  <img style="margin: auto;" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt=git width="60" height="60"/>
-  <img style="margin: auto;" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" alt=git width="60" height="60"/>
-</div>
-
 <h3># Tools </h3>
 <div>
   <img style="margin: auto;" src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" alt=git width="50" height="50"/>
