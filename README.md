@@ -1,11 +1,10 @@
 <h1>Hello there</h1>
-👋 I'm Eublan Mata, I am an Industrial Maintenance Engineer, From Venezuela.
+👋 I'm an Industrial Maintenance Engineer turned Backend Developer with a strong foundation in data extraction, cleaning, and transformation using Python (Pandas), Excel, and JSON. Skilled in API development (Node.js, Nest.js, Django, FastAPI) and database management (PostgreSQL, MongoDB). Passionate about automating data workflows to improve efficiency and accuracy.
 
 <h2>About me</h2>
 
 - 👀 I’m interested in things such as: Drawings, codes, tech world.
-- 👨🏽‍💻 I’m currently working on improving my: Backend | frontend skills.
-- 🌱 I’m still currently learning javascript and python in order to become in a good professional.
+- 🌱 I’m currently working on improving my: Backend | frontend skills.
 - :computer: I'm Currently Learning Angular
 
 <h2># Skills: </h2>
