@@ -1,11 +1,11 @@
 <h1>Hello there</h1>
-👋 I'm an Industrial Maintenance Engineer turned Backend Developer with a strong foundation in data extraction, cleaning, and transformation using Python (Pandas), Excel, and JSON. Skilled in API development (Node.js, Nest.js, Django, FastAPI) and database management (PostgreSQL, MongoDB). Passionate about automating data workflows to improve efficiency and accuracy.
+👋 I'm an Industrial Maintenance Engineer - Jr Backend Developer, with knowledge in ETL ( Extract - Transform - Load ) data using Python (Pandas), Excel or SQL. Knowledge building API with (Node.js, Nest.js, Django, FastAPI) and database management (PostgreSQL | SQL | MongoDB | Supabase). Passionate about automating data workflows and tech world.
 
 <h2>About me</h2>
 
 - 👀 I’m interested in things such as: Drawings, codes, tech world.
-- 🌱 I’m currently working on improving my: Backend | frontend skills.
-- :computer: I'm Currently Learning Angular
+- 🌱 I’m still improving my: Backend | frontend skills.
+- :computer: I'm Currently Learning Data Engineering and Data Analytics
 
 <h2># Skills: </h2>
 
